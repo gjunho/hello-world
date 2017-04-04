@@ -1,3 +1,5 @@
-# hello-world
-teste 2
-teste 3
+<<<<<<< HEAD
+alooooooooo
+=======
+yyy
+>>>>>>> refs/heads/master
